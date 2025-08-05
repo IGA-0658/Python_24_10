@@ -1,0 +1,17 @@
+Ejemplo Proyecto de proceso completo de proceso de EDA (análisis exploratorio de los datos) 
+
+1. Creación de carpetas: data, src, jupyters.
+2. Importar conjunto datos.
+3. Crear jupyter, puede ser uno o varios ej. EDA, limpieza, preanálisis, etc, generalmente depende del tamaño que va quedando.
+4. Import pandas etc.
+5. Llamada SRC análisis predeterminado
+6. Resumen del pre-analisis
+7. Def obj. del EDA
+8. An colum categógicas 
+(visualiz, con soporte SRC)
+9. Analisis de las columnas numéricas
+10. Explicación de lo visto en las gráficas
+11. Analisis de las columnas de fecha
+12. Analisis de las columnas booleanas
+
+
