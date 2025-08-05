@@ -1,0 +1,32 @@
+Fecha,Producto,Precio,Cantidad,Region,id_vendedor
+2024-10-07,Medicamentos y recetas,10.0,13,Murcia,o31
+2024-10-20,Cobertura de enfermedades y cirugías,10.0,9,Madrid,a99
+2024-10-29,Cobertura de enfermedades y cirugías,29.025156863427288,15,Cataluña,o31
+2024-10-15,Cobertura médica básica,142.9308685499704,13,Cataluña,o31
+2024-10-11,Medicamentos y recetas,10.0,1,Andalucía,p12
+2024-10-08,Cobertura médica básica,10.0,7,Cataluña,o31
+2024-10-29,Cobertura médica básica,10.0,9,Andalucía,a99
+2024-10-21,Consultas médicas con especialistas,10.0,1,Cataluña,o31
+2024-10-07,Consultas médicas con especialistas,199.7685715438032,12,Madrid,p12
+2024-10-26,Consultas médicas con especialistas,200.0,8,Cataluña,p12
+2024-10-19,Cobertura de enfermedades y cirugías,10.0,11,Andalucía,a99
+2024-10-23,Medicamentos y recetas,85.1129267681388,19,Andalucía,l34
+2024-10-11,Medicamentos y recetas,10.0,17,Madrid,l34
+2024-10-11,Medicamentos y recetas,10.0,8,Cataluña,o31
+2024-10-24,Medicamentos y recetas,10.0,3,Cataluña,f23
+2024-10-21,Consultas médicas con especialistas,200.0,3,Madrid,o31
+2024-10-04,Cobertura de enfermedades y cirugías,74.59995945565952,1,Cataluña,a99
+2024-10-08,Cobertura de enfermedades y cirugías,10.0,5,Cataluña,a99
+2024-10-24,Consultas médicas con especialistas,10.0,10,Andalucía,a99
+2024-10-03,Cobertura de enfermedades y cirugías,10.0,7,Cataluña,a99
+2024-10-22,Consultas médicas con especialistas,44.538741305102356,9,Cataluña,a99
+2024-10-21,Medicamentos y recetas,74.83975351054634,7,Madrid,p12
+2024-10-02,Consultas médicas con especialistas,159.17190836508627,9,Madrid,l34
+2024-10-24,Medicamentos y recetas,10.0,8,Murcia,a99
+2024-10-12,Medicamentos y recetas,122.89284771102714,12,Andalucía,f23
+2024-10-30,Cobertura médica básica,15.100133616269675,2,Cataluña,f23
+2024-10-06,Consultas médicas con especialistas,104.63864989200465,1,Cataluña,f23
+2024-10-02,Cobertura médica básica,141.83811968579687,16,Murcia,f23
+2024-10-28,Consultas médicas con especialistas,200.0,5,Cataluña,p12
+2024-10-21,Consultas médicas con especialistas,200.0,3,Andalucía,f23
+2024-10-01,Cobertura médica básica,29.283295806051687,12,Murcia,a99

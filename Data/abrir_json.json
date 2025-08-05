@@ -1,0 +1,5 @@
+{
+    "Curso": ["Python para Principiantes","An\u00e1lisis de Datos con Pandas", "Machine Learning Avanzado","SQL para Data Science"],
+    "Duraci\u00f3n (horas)": [40,30,60,25],
+    "Nivel": ["B\u00e1sico","Intermedio","Avanzado","B\u00e1sico"]
+}
